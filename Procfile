@@ -1,0 +1,1 @@
+web: deno run --allow-read --allow-write --allow-env --allow-net server.ts --port=${PORT} --host=cluster0-shard-00-01.hvgqa.mongodb.net --username=Admin --password=Rhino45
